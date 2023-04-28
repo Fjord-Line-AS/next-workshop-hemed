@@ -40,7 +40,7 @@ export default function Home() {
           height={37}
           priority
         />
-      </div>
+      </div>st
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
         <a
